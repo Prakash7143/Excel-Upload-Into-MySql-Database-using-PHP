@@ -1,0 +1,11 @@
+This is a simple Excel Upload System using Php & MySql.
+
+1. Import the SQL Database "excelfile".
+2. Then run the file in your browser.
+3. Upload the present excel file "UploadThisDemo.xlxs".
+4. Now again try to uplaod this file it will give "File already exists" message.
+5. This is coded in such a way that prevents duplicate entries into table.
+6. Please note that category which you will be writing must be the one which is present in "questionnaire_category" table. The format in which the present Excel file is there you create your excel file in the same format starting from cell A to G.
+
+Happy Coding...
+Thanks....
